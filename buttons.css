@@ -1,0 +1,158 @@
+.btn {
+    display: inline-block;
+    background-color: rgb(240, 157, 157);
+    color: white;
+    width: 80px;
+    border-radius: 3px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 20px ;
+    margin: 5px;
+}
+
+
+.btn.s > svg {
+    height: 0.65em;
+    width: 1em;
+    }
+.btn.m > svg {
+    height: 0.65em;
+    width: 1em;
+    }
+.btn.l > svg {
+    height: 0.65em;
+    width: 1em;
+    }
+           
+
+
+.btn.btn-melynas  {
+    background-color:rgb(134, 173, 245)
+}
+.btn.btn-tamsus {
+    background-color:rgb(121, 121, 121)
+}
+.btn.btn-violetinis {
+    background-color:rgb(194, 121, 228)
+}
+.btn.btn-zalias {
+    background-color:rgb(111, 180, 102)
+}
+.btn.btn-geltonas {
+    background-color:rgb(231, 240, 105)
+}
+.btn.btn-raudonas {
+    background-color:rgb(240, 124, 108)
+}
+
+
+
+.btn.btn-melynas.hover:hover  {
+    background-color:rgb(78, 137, 248)
+}
+.btn-tamsus.hover:hover {
+    background-color:rgb(52, 52, 53)
+}
+.btn-violetinis.hover:hover {
+    background-color:rgb(110, 57, 131)
+}
+.btn-zalias.hover:hover {
+    background-color:rgb(44, 143, 31)
+}
+.btn-geltonas.hover:hover {
+    background-color:rgb(174, 177, 27)
+}
+.btn-raudonas.hover:hover {
+    background-color:rgb(218, 63, 63)
+}
+
+
+
+.btn.btn-melynas.active  {
+    background-color:rgb(36, 111, 252)
+}
+.btn.btn-tamsus.active {
+    background-color:rgb(33, 33, 34)
+}
+.btn.btn-violetinis.active {
+    background-color:rgb(110, 57, 131)
+}
+.btn.btn-zalias.active {
+    background-color:rgb(44, 143, 31)
+}
+.btn.btn-geltonas.active {
+    background-color:rgb(169, 172, 9)
+}
+.btn.btn-raudonas.active {
+    background-color:rgb(218, 63, 63)
+}
+
+
+
+.btn.btn-melynas.disabled,
+.btn.btn-melynas[disabled] {
+    background-color: lightblue;
+    cursor: default;
+    pointer-events: none;
+}
+.btn.btn-tamsus.disabled,
+.btn.btn-tamsus[disabled] {
+    background-color: rgb(190, 190, 190);
+    cursor: default;
+    pointer-events: none;
+}
+.btn.btn-violetinis.disabled,
+.btn.btn-violetinis[disabled] {
+    background-color: rgb(221, 192, 235);
+    cursor: default;
+    pointer-events: none;
+}
+.btn.btn-zalias.disabled,
+.btn.btn-zalias[disabled] {
+    background-color: rgb(195, 243, 202);
+    cursor: default;
+    pointer-events: none;
+}
+.btn.btn-geltonas.disabled,
+.btn.btn-geltonas[disabled] {
+    background-color: rgb(224, 230, 173);
+    cursor: default;
+    pointer-events: none;
+}
+.btn.btn-raudonas.disabled,
+.btn.btn-raudonas[disabled] {
+    background-color: rgb(230, 173, 173);
+    cursor: default;
+    pointer-events: none;
+}
+
+
+
+.btn.s {
+    width: 60px;
+    height:20px;
+    font-size: 12px;  
+    line-height: 20px; 
+    background-color: rgb(132, 166, 240);
+    border-radius: 3px;
+    padding: 0px 10px;
+}
+.btn.m {
+    width: 80px;
+    height:25px;
+    font-size: 18px;  
+    line-height: 25px; 
+    background-color: rgb(132, 166, 240);
+    border-radius: 3px;
+    padding: 5px 15px;
+}
+.btn.l {
+    width: 100px;
+    height:40px;
+    font-size: 25px;  
+    background-color: rgb(132, 166, 240);
+    border-radius: 3px;
+    height: 30px;
+    width: 110px;
+}
+
