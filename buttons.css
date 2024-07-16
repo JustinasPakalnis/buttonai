@@ -87,36 +87,42 @@
     background-color: lightblue;
     cursor: default;
     pointer-events: none;
+    user-select: none;
 }
 .btn.btn-tamsus.disabled,
 .btn.btn-tamsus[disabled] {
     background-color: rgb(190, 190, 190);
     cursor: default;
     pointer-events: none;
+    user-select: none;
 }
 .btn.btn-violetinis.disabled,
 .btn.btn-violetinis[disabled] {
     background-color: rgb(221, 192, 235);
     cursor: default;
     pointer-events: none;
+    user-select: none;
 }
 .btn.btn-zalias.disabled,
 .btn.btn-zalias[disabled] {
     background-color: rgb(195, 243, 202);
     cursor: default;
     pointer-events: none;
+    user-select: none;
 }
 .btn.btn-geltonas.disabled,
 .btn.btn-geltonas[disabled] {
     background-color: rgb(224, 230, 173);
     cursor: default;
     pointer-events: none;
+    user-select: none;
 }
 .btn.btn-raudonas.disabled,
 .btn.btn-raudonas[disabled] {
     background-color: rgb(230, 173, 173);
     cursor: default;
     pointer-events: none;
+    user-select: none;
 }
 
 
