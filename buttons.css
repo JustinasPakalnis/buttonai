@@ -14,65 +14,70 @@
 
 
 .btn.btn-melynas  {
-    background-color:rgb(134, 173, 245)
+    background-color:rgb(134, 173, 245);
 }
 .btn.btn-tamsus {
-    background-color:rgb(121, 121, 121)
+    background-color:rgb(121, 121, 121);
 }
 .btn.btn-violetinis {
-    background-color:rgb(194, 121, 228)
+    background-color:rgb(194, 121, 228);
 }
 .btn.btn-zalias {
-    background-color:rgb(111, 180, 102)
+    background-color:rgb(111, 180, 102);
 }
 .btn.btn-geltonas {
-    background-color:rgb(231, 240, 105)
+    background-color:rgb(231, 240, 105);
 }
 .btn.btn-raudonas {
-    background-color:rgb(240, 124, 108)
+    background-color:rgb(240, 124, 108);
 }
 
 
 
 .btn.btn-melynas.hover:hover  {
-    background-color:rgb(78, 137, 248)
-    
+    background-color:rgb(78, 137, 248);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 .btn-tamsus.hover:hover {
-    background-color:rgb(52, 52, 53)
+    background-color:rgb(52, 52, 53);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 .btn-violetinis.hover:hover {
-    background-color:rgb(110, 57, 131)
+    background-color:rgb(110, 57, 131);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 .btn-zalias.hover:hover {
-    background-color:rgb(44, 143, 31)
+    background-color:rgb(44, 143, 31);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 .btn-geltonas.hover:hover {
-    background-color:rgb(174, 177, 27)
+    background-color:rgb(174, 177, 27);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 .btn-raudonas.hover:hover {
-    background-color:rgb(218, 63, 63)
+    background-color:rgb(218, 63, 63);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 
 
 .btn.btn-melynas.active  {
-    background-color:rgb(36, 111, 252)
+    background-color:rgb(36, 111, 252);
 }
 .btn.btn-tamsus.active {
-    background-color:rgb(33, 33, 34)
+    background-color:rgb(33, 33, 34);
 }
 .btn.btn-violetinis.active {
-    background-color:rgb(110, 57, 131)
+    background-color:rgb(110, 57, 131);
 }
 .btn.btn-zalias.active {
-    background-color:rgb(44, 143, 31)
+    background-color:rgb(44, 143, 31);
 }
 .btn.btn-geltonas.active {
-    background-color:rgb(169, 172, 9)
+    background-color:rgb(169, 172, 9);
 }
 .btn.btn-raudonas.active {
-    background-color:rgb(218, 63, 63)
+    background-color:rgb(218, 63, 63);
 }
 
 
