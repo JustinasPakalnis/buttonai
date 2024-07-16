@@ -130,9 +130,9 @@
 
 .btn.s {
     width: 60px;
-    height:20px;
+    height:25px;
     font-size: 12px;  
-    line-height: 20px; 
+    line-height: 25px; 
     background-color: rgb(132, 166, 240);
     border-radius: 3px;
     padding: 0px 10px;
@@ -147,8 +147,6 @@
     padding: 5px 15px;
 }
 .btn.l {
-    width: 100px;
-    height:40px;
     font-size: 25px;  
     background-color: rgb(132, 166, 240);
     border-radius: 3px;
