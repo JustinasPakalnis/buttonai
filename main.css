@@ -34,3 +34,10 @@ p {
 .section2 {
     display: flex
     }
+.badge {
+    display: flex;
+    align-items: center;
+    }
+svg {
+    height: 0.7em;
+}
